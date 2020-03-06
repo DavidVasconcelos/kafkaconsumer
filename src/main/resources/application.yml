@@ -1,0 +1,8 @@
+server:
+  port: 8085
+
+kafka:
+  server: 127.0.1.1:9092
+  group:
+    id: myGroupId
+
